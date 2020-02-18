@@ -97,6 +97,7 @@
     <Compile Include="Logger.cs" />
     <Compile Include="PluginConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScreenInitPatch.cs" />
     <Compile Include="ViewControllerActivatePatch.cs" />
   </ItemGroup>
   <ItemGroup>
